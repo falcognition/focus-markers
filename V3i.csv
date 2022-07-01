@@ -1,0 +1,397 @@
+﻿Participante,Nombre,Sexo,Item,Edad,Imagen,TCDD,MD,Tiempo,Ventana
+1,Alejandra Escobar Rodríguez,F,1,23,c,c,h,.0855,3
+1,Alejandra Escobar Rodríguez,F,2,23,c,c,n,.1195,3
+1,Alejandra Escobar Rodríguez,F,3,23,c,c,s,.089,3
+1,Alejandra Escobar Rodríguez,F,4,23,d1,DD,h,.0185,3
+1,Alejandra Escobar Rodríguez,F,5,23,d1,DD,n,.073,3
+1,Alejandra Escobar Rodríguez,F,6,23,d1,DD,s,.094,3
+1,Alejandra Escobar Rodríguez,F,7,23,d2,DD,h,.01,3
+1,Alejandra Escobar Rodríguez,F,8,23,d2,DD,n,.034,3
+1,Alejandra Escobar Rodríguez,F,9,23,d2,DD,s,.029,3
+1,Alejandra Escobar Rodríguez,F,10,23,t,t,h,.0655,3
+1,Alejandra Escobar Rodríguez,F,11,23,t,t,n,.031,3
+1,Alejandra Escobar Rodríguez,F,12,23,t,t,s,.0385,3
+2,Alejandro Cleto,M,1,19,c,c,h,.07,3
+2,Alejandro Cleto,M,2,19,c,c,n,.1205,3
+2,Alejandro Cleto,M,3,19,c,c,s,.1235,3
+2,Alejandro Cleto,M,4,19,d1,DD,h,.0565,3
+2,Alejandro Cleto,M,5,19,d1,DD,n,.0455,3
+2,Alejandro Cleto,M,6,19,d1,DD,s,.0175,3
+2,Alejandro Cleto,M,7,19,d2,DD,h,.069,3
+2,Alejandro Cleto,M,8,19,d2,DD,n,.0095,3
+2,Alejandro Cleto,M,9,19,d2,DD,s,.0385,3
+2,Alejandro Cleto,M,10,19,t,t,h,.095,3
+2,Alejandro Cleto,M,11,19,t,t,n,.028,3
+2,Alejandro Cleto,M,12,19,t,t,s,.052,3
+3,Alhelí Odemarys Román López,F,1,21,c,c,h,.145,3
+3,Alhelí Odemarys Román López,F,2,21,c,c,n,.174,3
+3,Alhelí Odemarys Román López,F,3,21,c,c,s,.093,3
+3,Alhelí Odemarys Román López,F,4,21,d1,DD,h,.0585,3
+3,Alhelí Odemarys Román López,F,5,21,d1,DD,n,.065,3
+3,Alhelí Odemarys Román López,F,6,21,d1,DD,s,.0665,3
+3,Alhelí Odemarys Román López,F,7,21,d2,DD,h,.009,3
+3,Alhelí Odemarys Román López,F,8,21,d2,DD,n,.0065,3
+3,Alhelí Odemarys Román López,F,9,21,d2,DD,s,.0335,3
+3,Alhelí Odemarys Román López,F,10,21,t,t,h,.1285,3
+3,Alhelí Odemarys Román López,F,11,21,t,t,n,.1255,3
+3,Alhelí Odemarys Román López,F,12,21,t,t,s,.1195,3
+4,Andrea Alvear,F,1,24,c,c,h,.1175,3
+4,Andrea Alvear,F,2,24,c,c,n,.134,3
+4,Andrea Alvear,F,3,24,c,c,s,.1155,3
+4,Andrea Alvear,F,4,24,d1,DD,h,.062,3
+4,Andrea Alvear,F,5,24,d1,DD,n,.0625,3
+4,Andrea Alvear,F,6,24,d1,DD,s,.049,3
+4,Andrea Alvear,F,7,24,d2,DD,h,.027,3
+4,Andrea Alvear,F,8,24,d2,DD,n,.036,3
+4,Andrea Alvear,F,9,24,d2,DD,s,.048,3
+4,Andrea Alvear,F,10,24,t,t,h,.1055,3
+4,Andrea Alvear,F,11,24,t,t,n,.1265,3
+4,Andrea Alvear,F,12,24,t,t,s,.1635,3
+5,Andrea Millán,F,1,19,c,c,h,.153,3
+5,Andrea Millán,F,2,19,c,c,n,.109,3
+5,Andrea Millán,F,3,19,c,c,s,.1805,3
+5,Andrea Millán,F,4,19,d1,DD,h,.024,3
+5,Andrea Millán,F,5,19,d1,DD,n,.012,3
+5,Andrea Millán,F,6,19,d1,DD,s,.0455,3
+5,Andrea Millán,F,7,19,d2,DD,h,.0035,3
+5,Andrea Millán,F,8,19,d2,DD,n,.016,3
+5,Andrea Millán,F,9,19,d2,DD,s,.018,3
+5,Andrea Millán,F,10,19,t,t,h,.1145,3
+5,Andrea Millán,F,11,19,t,t,n,.185,3
+5,Andrea Millán,F,12,19,t,t,s,.097,3
+6,Astrid Lara Suárez,F,1,19,c,c,h,.1755,3
+6,Astrid Lara Suárez,F,2,19,c,c,n,.1685,3
+6,Astrid Lara Suárez,F,3,19,c,c,s,.0845,3
+6,Astrid Lara Suárez,F,4,19,d1,DD,h,.047,3
+6,Astrid Lara Suárez,F,5,19,d1,DD,n,.008,3
+6,Astrid Lara Suárez,F,6,19,d1,DD,s,.0275,3
+6,Astrid Lara Suárez,F,7,19,d2,DD,h,.0015,3
+6,Astrid Lara Suárez,F,8,19,d2,DD,n,0,3
+6,Astrid Lara Suárez,F,9,19,d2,DD,s,.0055,3
+6,Astrid Lara Suárez,F,10,19,t,t,h,.0515,3
+6,Astrid Lara Suárez,F,11,19,t,t,n,.1655,3
+6,Astrid Lara Suárez,F,12,19,t,t,s,.1115,3
+7,Brian González Aveleyra,M,1,22,c,c,h,.101,3
+7,Brian González Aveleyra,M,2,22,c,c,n,.1305,3
+7,Brian González Aveleyra,M,3,22,c,c,s,.085,3
+7,Brian González Aveleyra,M,4,22,d1,DD,h,.0515,3
+7,Brian González Aveleyra,M,5,22,d1,DD,n,.0585,3
+7,Brian González Aveleyra,M,6,22,d1,DD,s,.021,3
+7,Brian González Aveleyra,M,7,22,d2,DD,h,.023,3
+7,Brian González Aveleyra,M,8,22,d2,DD,n,.0125,3
+7,Brian González Aveleyra,M,9,22,d2,DD,s,.057,3
+7,Brian González Aveleyra,M,10,22,t,t,h,.085,3
+7,Brian González Aveleyra,M,11,22,t,t,n,.074,3
+7,Brian González Aveleyra,M,12,22,t,t,s,.076,3
+8,Cecilia Alejandra Ruiz García,F,1,23,c,c,h,.0655,3
+8,Cecilia Alejandra Ruiz García,F,2,23,c,c,n,.1625,3
+8,Cecilia Alejandra Ruiz García,F,3,23,c,c,s,.077,3
+8,Cecilia Alejandra Ruiz García,F,4,23,d1,DD,h,.0265,3
+8,Cecilia Alejandra Ruiz García,F,5,23,d1,DD,n,.018,3
+8,Cecilia Alejandra Ruiz García,F,6,23,d1,DD,s,.0715,3
+8,Cecilia Alejandra Ruiz García,F,7,23,d2,DD,h,.03,3
+8,Cecilia Alejandra Ruiz García,F,8,23,d2,DD,n,.0325,3
+8,Cecilia Alejandra Ruiz García,F,9,23,d2,DD,s,.0185,3
+8,Cecilia Alejandra Ruiz García,F,10,23,t,t,h,.205,3
+8,Cecilia Alejandra Ruiz García,F,11,23,t,t,n,.1045,3
+8,Cecilia Alejandra Ruiz García,F,12,23,t,t,s,.13,3
+9,Diana Gabriela Méndez Hernández,F,1,23,c,c,h,.072,3
+9,Diana Gabriela Méndez Hernández,F,2,23,c,c,n,.1015,3
+9,Diana Gabriela Méndez Hernández,F,3,23,c,c,s,.1235,3
+9,Diana Gabriela Méndez Hernández,F,4,23,d1,DD,h,.069,3
+9,Diana Gabriela Méndez Hernández,F,5,23,d1,DD,n,.058,3
+9,Diana Gabriela Méndez Hernández,F,6,23,d1,DD,s,.031,3
+9,Diana Gabriela Méndez Hernández,F,7,23,d2,DD,h,.027,3
+9,Diana Gabriela Méndez Hernández,F,8,23,d2,DD,n,.0635,3
+9,Diana Gabriela Méndez Hernández,F,9,23,d2,DD,s,.029,3
+9,Diana Gabriela Méndez Hernández,F,10,23,t,t,h,.085,3
+9,Diana Gabriela Méndez Hernández,F,11,23,t,t,n,.1015,3
+9,Diana Gabriela Méndez Hernández,F,12,23,t,t,s,.1345,3
+10,Estefanía Villarroel,F,1,22,c,c,h,.112,3
+10,Estefanía Villarroel,F,2,22,c,c,n,.073,3
+10,Estefanía Villarroel,F,3,22,c,c,s,.108,3
+10,Estefanía Villarroel,F,4,22,d1,DD,h,.015,3
+10,Estefanía Villarroel,F,5,22,d1,DD,n,.039,3
+10,Estefanía Villarroel,F,6,22,d1,DD,s,.013,3
+10,Estefanía Villarroel,F,7,22,d2,DD,h,.0035,3
+10,Estefanía Villarroel,F,8,22,d2,DD,n,.006,3
+10,Estefanía Villarroel,F,9,22,d2,DD,s,0,3
+10,Estefanía Villarroel,F,10,22,t,t,h,.0875,3
+10,Estefanía Villarroel,F,11,22,t,t,n,.1285,3
+10,Estefanía Villarroel,F,12,22,t,t,s,.0855,3
+11,Estrella Cotero,F,1,21,c,c,h,.079,3
+11,Estrella Cotero,F,2,21,c,c,n,.198,3
+11,Estrella Cotero,F,3,21,c,c,s,.2085,3
+11,Estrella Cotero,F,4,21,d1,DD,h,.0255,3
+11,Estrella Cotero,F,5,21,d1,DD,n,.0295,3
+11,Estrella Cotero,F,6,21,d1,DD,s,.0195,3
+11,Estrella Cotero,F,7,21,d2,DD,h,.0975,3
+11,Estrella Cotero,F,8,21,d2,DD,n,.0205,3
+11,Estrella Cotero,F,9,21,d2,DD,s,0,3
+11,Estrella Cotero,F,10,21,t,t,h,.1435,3
+11,Estrella Cotero,F,11,21,t,t,n,.1435,3
+11,Estrella Cotero,F,12,21,t,t,s,.1585,3
+12,Fátima Ruiz,F,1,18,c,c,h,.123,3
+12,Fátima Ruiz,F,2,18,c,c,n,.078,3
+12,Fátima Ruiz,F,3,18,c,c,s,.124,3
+12,Fátima Ruiz,F,4,18,d1,DD,h,.0765,3
+12,Fátima Ruiz,F,5,18,d1,DD,n,.107,3
+12,Fátima Ruiz,F,6,18,d1,DD,s,.1325,3
+12,Fátima Ruiz,F,7,18,d2,DD,h,.0715,3
+12,Fátima Ruiz,F,8,18,d2,DD,n,.0585,3
+12,Fátima Ruiz,F,9,18,d2,DD,s,.0375,3
+12,Fátima Ruiz,F,10,18,t,t,h,.0905,3
+12,Fátima Ruiz,F,11,18,t,t,n,.14,3
+12,Fátima Ruiz,F,12,18,t,t,s,.071,3
+13,Fernanda Domínguez Hernández,F,1,24,c,c,h,.113,3
+13,Fernanda Domínguez Hernández,F,2,24,c,c,n,.1445,3
+13,Fernanda Domínguez Hernández,F,3,24,c,c,s,.1055,3
+13,Fernanda Domínguez Hernández,F,4,24,d1,DD,h,.061,3
+13,Fernanda Domínguez Hernández,F,5,24,d1,DD,n,.062,3
+13,Fernanda Domínguez Hernández,F,6,24,d1,DD,s,.0415,3
+13,Fernanda Domínguez Hernández,F,7,24,d2,DD,h,.0475,3
+13,Fernanda Domínguez Hernández,F,8,24,d2,DD,n,.0265,3
+13,Fernanda Domínguez Hernández,F,9,24,d2,DD,s,.035,3
+13,Fernanda Domínguez Hernández,F,10,24,t,t,h,.066,3
+13,Fernanda Domínguez Hernández,F,11,24,t,t,n,.0665,3
+13,Fernanda Domínguez Hernández,F,12,24,t,t,s,.132,3
+14,Fernando Villanueva Domínguez,M,1,21,c,c,h,.169,3
+14,Fernando Villanueva Domínguez,M,2,21,c,c,n,.156,3
+14,Fernando Villanueva Domínguez,M,3,21,c,c,s,.131,3
+14,Fernando Villanueva Domínguez,M,4,21,d1,DD,h,0,3
+14,Fernando Villanueva Domínguez,M,5,21,d1,DD,n,.016,3
+14,Fernando Villanueva Domínguez,M,6,21,d1,DD,s,.021,3
+14,Fernando Villanueva Domínguez,M,7,21,d2,DD,h,0,3
+14,Fernando Villanueva Domínguez,M,8,21,d2,DD,n,.0035,3
+14,Fernando Villanueva Domínguez,M,9,21,d2,DD,s,.011,3
+14,Fernando Villanueva Domínguez,M,10,21,t,t,h,.168,3
+14,Fernando Villanueva Domínguez,M,11,21,t,t,n,.0825,3
+14,Fernando Villanueva Domínguez,M,12,21,t,t,s,.1355,3
+15,Frida Carmina Sotres Cepeda,F,1,18,c,c,h,.109,3
+15,Frida Carmina Sotres Cepeda,F,2,18,c,c,n,.1415,3
+15,Frida Carmina Sotres Cepeda,F,3,18,c,c,s,.1145,3
+15,Frida Carmina Sotres Cepeda,F,4,18,d1,DD,h,.0495,3
+15,Frida Carmina Sotres Cepeda,F,5,18,d1,DD,n,.0185,3
+15,Frida Carmina Sotres Cepeda,F,6,18,d1,DD,s,.0185,3
+15,Frida Carmina Sotres Cepeda,F,7,18,d2,DD,h,.037,3
+15,Frida Carmina Sotres Cepeda,F,8,18,d2,DD,n,.031,3
+15,Frida Carmina Sotres Cepeda,F,9,18,d2,DD,s,.0475,3
+15,Frida Carmina Sotres Cepeda,F,10,18,t,t,h,.1235,3
+15,Frida Carmina Sotres Cepeda,F,11,18,t,t,n,.145,3
+15,Frida Carmina Sotres Cepeda,F,12,18,t,t,s,.16,3
+16,Gabriela Ixchel Saavedra Uzúa,F,1,23,c,c,h,.135,3
+16,Gabriela Ixchel Saavedra Uzúa,F,2,23,c,c,n,.1295,3
+16,Gabriela Ixchel Saavedra Uzúa,F,3,23,c,c,s,.109,3
+16,Gabriela Ixchel Saavedra Uzúa,F,4,23,d1,DD,h,.0675,3
+16,Gabriela Ixchel Saavedra Uzúa,F,5,23,d1,DD,n,.0145,3
+16,Gabriela Ixchel Saavedra Uzúa,F,6,23,d1,DD,s,.1045,3
+16,Gabriela Ixchel Saavedra Uzúa,F,7,23,d2,DD,h,.0115,3
+16,Gabriela Ixchel Saavedra Uzúa,F,8,23,d2,DD,n,.012,3
+16,Gabriela Ixchel Saavedra Uzúa,F,9,23,d2,DD,s,0,3
+16,Gabriela Ixchel Saavedra Uzúa,F,10,23,t,t,h,.0375,3
+16,Gabriela Ixchel Saavedra Uzúa,F,11,23,t,t,n,.111,3
+16,Gabriela Ixchel Saavedra Uzúa,F,12,23,t,t,s,.062,3
+17,Génesis Naian Roldán Rodríguez,F,1,18,c,c,h,.106,3
+17,Génesis Naian Roldán Rodríguez,F,2,18,c,c,n,.114,3
+17,Génesis Naian Roldán Rodríguez,F,3,18,c,c,s,.067,3
+17,Génesis Naian Roldán Rodríguez,F,4,18,d1,DD,h,.0455,3
+17,Génesis Naian Roldán Rodríguez,F,5,18,d1,DD,n,.048,3
+17,Génesis Naian Roldán Rodríguez,F,6,18,d1,DD,s,.029,3
+17,Génesis Naian Roldán Rodríguez,F,7,18,d2,DD,h,.0145,3
+17,Génesis Naian Roldán Rodríguez,F,8,18,d2,DD,n,.0235,3
+17,Génesis Naian Roldán Rodríguez,F,9,18,d2,DD,s,.045,3
+17,Génesis Naian Roldán Rodríguez,F,10,18,t,t,h,.059,3
+17,Génesis Naian Roldán Rodríguez,F,11,18,t,t,n,.09,3
+17,Génesis Naian Roldán Rodríguez,F,12,18,t,t,s,.0445,3
+18,Getsemani Castro Martínez,F,1,20,c,c,h,.11,3
+18,Getsemani Castro Martínez,F,2,20,c,c,n,.187,3
+18,Getsemani Castro Martínez,F,3,20,c,c,s,.167,3
+18,Getsemani Castro Martínez,F,4,20,d1,DD,h,.086,3
+18,Getsemani Castro Martínez,F,5,20,d1,DD,n,.044,3
+18,Getsemani Castro Martínez,F,6,20,d1,DD,s,.066,3
+18,Getsemani Castro Martínez,F,7,20,d2,DD,h,.025,3
+18,Getsemani Castro Martínez,F,8,20,d2,DD,n,.039,3
+18,Getsemani Castro Martínez,F,9,20,d2,DD,s,.047,3
+18,Getsemani Castro Martínez,F,10,20,t,t,h,.0765,3
+18,Getsemani Castro Martínez,F,11,20,t,t,n,.103,3
+18,Getsemani Castro Martínez,F,12,20,t,t,s,.1095,3
+19,Hannia Guadalupe Bahena Escalante,F,1,19,c,c,h,.085,3
+19,Hannia Guadalupe Bahena Escalante,F,2,19,c,c,n,.108,3
+19,Hannia Guadalupe Bahena Escalante,F,3,19,c,c,s,.048,3
+19,Hannia Guadalupe Bahena Escalante,F,4,19,d1,DD,h,.021,3
+19,Hannia Guadalupe Bahena Escalante,F,5,19,d1,DD,n,.01,3
+19,Hannia Guadalupe Bahena Escalante,F,6,19,d1,DD,s,.0415,3
+19,Hannia Guadalupe Bahena Escalante,F,7,19,d2,DD,h,.022,3
+19,Hannia Guadalupe Bahena Escalante,F,8,19,d2,DD,n,.0225,3
+19,Hannia Guadalupe Bahena Escalante,F,9,19,d2,DD,s,.055,3
+19,Hannia Guadalupe Bahena Escalante,F,10,19,t,t,h,.1115,3
+19,Hannia Guadalupe Bahena Escalante,F,11,19,t,t,n,.086,3
+19,Hannia Guadalupe Bahena Escalante,F,12,19,t,t,s,.138,3
+20,Itzamali Mares,F,1,20,c,c,h,.1315,3
+20,Itzamali Mares,F,2,20,c,c,n,.106,3
+20,Itzamali Mares,F,3,20,c,c,s,.0955,3
+20,Itzamali Mares,F,4,20,d1,DD,h,.0705,3
+20,Itzamali Mares,F,5,20,d1,DD,n,.0775,3
+20,Itzamali Mares,F,6,20,d1,DD,s,.0465,3
+20,Itzamali Mares,F,7,20,d2,DD,h,.0075,3
+20,Itzamali Mares,F,8,20,d2,DD,n,.029,3
+20,Itzamali Mares,F,9,20,d2,DD,s,.07,3
+20,Itzamali Mares,F,10,20,t,t,h,.114,3
+20,Itzamali Mares,F,11,20,t,t,n,.1045,3
+20,Itzamali Mares,F,12,20,t,t,s,.0815,3
+21,Ivonne Bustamante,F,1,20,c,c,h,.098,3
+21,Ivonne Bustamante,F,2,20,c,c,n,.0995,3
+21,Ivonne Bustamante,F,3,20,c,c,s,.1115,3
+21,Ivonne Bustamante,F,4,20,d1,DD,h,.0425,3
+21,Ivonne Bustamante,F,5,20,d1,DD,n,.0205,3
+21,Ivonne Bustamante,F,6,20,d1,DD,s,.031,3
+21,Ivonne Bustamante,F,7,20,d2,DD,h,.024,3
+21,Ivonne Bustamante,F,8,20,d2,DD,n,.046,3
+21,Ivonne Bustamante,F,9,20,d2,DD,s,.0255,3
+21,Ivonne Bustamante,F,10,20,t,t,h,.1655,3
+21,Ivonne Bustamante,F,11,20,t,t,n,.133,3
+21,Ivonne Bustamante,F,12,20,t,t,s,.135,3
+22,Jacob Oropeza,M,1,22,c,c,h,.1515,3
+22,Jacob Oropeza,M,2,22,c,c,n,.122,3
+22,Jacob Oropeza,M,3,22,c,c,s,.08,3
+22,Jacob Oropeza,M,4,22,d1,DD,h,.0725,3
+22,Jacob Oropeza,M,5,22,d1,DD,n,.0765,3
+22,Jacob Oropeza,M,6,22,d1,DD,s,.0615,3
+22,Jacob Oropeza,M,7,22,d2,DD,h,.0415,3
+22,Jacob Oropeza,M,8,22,d2,DD,n,.0165,3
+22,Jacob Oropeza,M,9,22,d2,DD,s,.0335,3
+22,Jacob Oropeza,M,10,22,t,t,h,.091,3
+22,Jacob Oropeza,M,11,22,t,t,n,.1085,3
+22,Jacob Oropeza,M,12,22,t,t,s,.1135,3
+23,Jaina Mariel Peña García,F,1,21,c,c,h,.1695,3
+23,Jaina Mariel Peña García,F,2,21,c,c,n,.1735,3
+23,Jaina Mariel Peña García,F,3,21,c,c,s,.145,3
+23,Jaina Mariel Peña García,F,4,21,d1,DD,h,.0625,3
+23,Jaina Mariel Peña García,F,5,21,d1,DD,n,.058,3
+23,Jaina Mariel Peña García,F,6,21,d1,DD,s,.0135,3
+23,Jaina Mariel Peña García,F,7,21,d2,DD,h,0,3
+23,Jaina Mariel Peña García,F,8,21,d2,DD,n,.0075,3
+23,Jaina Mariel Peña García,F,9,21,d2,DD,s,.0365,3
+23,Jaina Mariel Peña García,F,10,21,t,t,h,.0885,3
+23,Jaina Mariel Peña García,F,11,21,t,t,n,.0985,3
+23,Jaina Mariel Peña García,F,12,21,t,t,s,.1375,3
+24,Jesús Robles,M,1,21,c,c,h,.064,3
+24,Jesús Robles,M,2,21,c,c,n,.145,3
+24,Jesús Robles,M,3,21,c,c,s,.115,3
+24,Jesús Robles,M,4,21,d1,DD,h,.0275,3
+24,Jesús Robles,M,5,21,d1,DD,n,.0165,3
+24,Jesús Robles,M,6,21,d1,DD,s,.012,3
+24,Jesús Robles,M,7,21,d2,DD,h,.053,3
+24,Jesús Robles,M,8,21,d2,DD,n,.0385,3
+24,Jesús Robles,M,9,21,d2,DD,s,.0525,3
+24,Jesús Robles,M,10,21,t,t,h,.161,3
+24,Jesús Robles,M,11,21,t,t,n,.117,3
+24,Jesús Robles,M,12,21,t,t,s,.0745,3
+25,Julieta Olvera,F,1,19,c,c,h,.221,3
+25,Julieta Olvera,F,2,19,c,c,n,.1995,3
+25,Julieta Olvera,F,3,19,c,c,s,.168,3
+25,Julieta Olvera,F,4,19,d1,DD,h,.018,3
+25,Julieta Olvera,F,5,19,d1,DD,n,.0075,3
+25,Julieta Olvera,F,6,19,d1,DD,s,0,3
+25,Julieta Olvera,F,7,19,d2,DD,h,.0555,3
+25,Julieta Olvera,F,8,19,d2,DD,n,.0155,3
+25,Julieta Olvera,F,9,19,d2,DD,s,0,3
+25,Julieta Olvera,F,10,19,t,t,h,.087,3
+25,Julieta Olvera,F,11,19,t,t,n,.1115,3
+25,Julieta Olvera,F,12,19,t,t,s,.16,3
+26,Karla Fernanda González Pedroza,F,1,20,c,c,h,.089,3
+26,Karla Fernanda González Pedroza,F,2,20,c,c,n,.073,3
+26,Karla Fernanda González Pedroza,F,3,20,c,c,s,.132,3
+26,Karla Fernanda González Pedroza,F,4,20,d1,DD,h,.06,3
+26,Karla Fernanda González Pedroza,F,5,20,d1,DD,n,.039,3
+26,Karla Fernanda González Pedroza,F,6,20,d1,DD,s,.045,3
+26,Karla Fernanda González Pedroza,F,7,20,d2,DD,h,.032,3
+26,Karla Fernanda González Pedroza,F,8,20,d2,DD,n,.032,3
+26,Karla Fernanda González Pedroza,F,9,20,d2,DD,s,.025,3
+26,Karla Fernanda González Pedroza,F,10,20,t,t,h,.026,3
+26,Karla Fernanda González Pedroza,F,11,20,t,t,n,.084,3
+26,Karla Fernanda González Pedroza,F,12,20,t,t,s,.0495,3
+27,Luz Elena Villarreal Miranda,F,1,21,c,c,h,.197,3
+27,Luz Elena Villarreal Miranda,F,2,21,c,c,n,.0795,3
+27,Luz Elena Villarreal Miranda,F,3,21,c,c,s,.201,3
+27,Luz Elena Villarreal Miranda,F,4,21,d1,DD,h,.0375,3
+27,Luz Elena Villarreal Miranda,F,5,21,d1,DD,n,.0425,3
+27,Luz Elena Villarreal Miranda,F,6,21,d1,DD,s,.083,3
+27,Luz Elena Villarreal Miranda,F,7,21,d2,DD,h,.062,3
+27,Luz Elena Villarreal Miranda,F,8,21,d2,DD,n,.0765,3
+27,Luz Elena Villarreal Miranda,F,9,21,d2,DD,s,.0405,3
+27,Luz Elena Villarreal Miranda,F,10,21,t,t,h,.0685,3
+27,Luz Elena Villarreal Miranda,F,11,21,t,t,n,.136,3
+27,Luz Elena Villarreal Miranda,F,12,21,t,t,s,.04,3
+28,Luz Rebollar,F,1,20,c,c,h,.0855,3
+28,Luz Rebollar,F,2,20,c,c,n,.1155,3
+28,Luz Rebollar,F,3,20,c,c,s,.0725,3
+28,Luz Rebollar,F,4,20,d1,DD,h,.0785,3
+28,Luz Rebollar,F,5,20,d1,DD,n,.0595,3
+28,Luz Rebollar,F,6,20,d1,DD,s,.0435,3
+28,Luz Rebollar,F,7,20,d2,DD,h,.0435,3
+28,Luz Rebollar,F,8,20,d2,DD,n,.044,3
+28,Luz Rebollar,F,9,20,d2,DD,s,.0265,3
+28,Luz Rebollar,F,10,20,t,t,h,.091,3
+28,Luz Rebollar,F,11,20,t,t,n,.1195,3
+28,Luz Rebollar,F,12,20,t,t,s,.1265,3
+29,Manuel Zepeda,M,1,21,c,c,h,.0505,3
+29,Manuel Zepeda,M,2,21,c,c,n,.0915,3
+29,Manuel Zepeda,M,3,21,c,c,s,.099,3
+29,Manuel Zepeda,M,4,21,d1,DD,h,.035,3
+29,Manuel Zepeda,M,5,21,d1,DD,n,0,3
+29,Manuel Zepeda,M,6,21,d1,DD,s,.0175,3
+29,Manuel Zepeda,M,7,21,d2,DD,h,.026,3
+29,Manuel Zepeda,M,8,21,d2,DD,n,.0075,3
+29,Manuel Zepeda,M,9,21,d2,DD,s,.0125,3
+29,Manuel Zepeda,M,10,21,t,t,h,.0505,3
+29,Manuel Zepeda,M,11,21,t,t,n,.0725,3
+29,Manuel Zepeda,M,12,21,t,t,s,.0915,3
+30,Marco Jiménez,M,1,23,c,c,h,.1095,3
+30,Marco Jiménez,M,2,23,c,c,n,.1595,3
+30,Marco Jiménez,M,3,23,c,c,s,.178,3
+30,Marco Jiménez,M,4,23,d1,DD,h,.0615,3
+30,Marco Jiménez,M,5,23,d1,DD,n,.053,3
+30,Marco Jiménez,M,6,23,d1,DD,s,.0195,3
+30,Marco Jiménez,M,7,23,d2,DD,h,.0435,3
+30,Marco Jiménez,M,8,23,d2,DD,n,.035,3
+30,Marco Jiménez,M,9,23,d2,DD,s,.0225,3
+30,Marco Jiménez,M,10,23,t,t,h,.033,3
+30,Marco Jiménez,M,11,23,t,t,n,.074,3
+30,Marco Jiménez,M,12,23,t,t,s,.0805,3
+31,Margot Martínez,F,1,21,c,c,h,.131,3
+31,Margot Martínez,F,2,21,c,c,n,.144,3
+31,Margot Martínez,F,3,21,c,c,s,.098,3
+31,Margot Martínez,F,4,21,d1,DD,h,.058,3
+31,Margot Martínez,F,5,21,d1,DD,n,.001,3
+31,Margot Martínez,F,6,21,d1,DD,s,0,3
+31,Margot Martínez,F,7,21,d2,DD,h,.016,3
+31,Margot Martínez,F,8,21,d2,DD,n,.0075,3
+31,Margot Martínez,F,9,21,d2,DD,s,.0055,3
+31,Margot Martínez,F,10,21,t,t,h,.096,3
+31,Margot Martínez,F,11,21,t,t,n,.1375,3
+31,Margot Martínez,F,12,21,t,t,s,.162,3
+32,Mireylli Alejandra Reynoso Juárez,F,1,20,c,c,h,.034,3
+32,Mireylli Alejandra Reynoso Juárez,F,2,20,c,c,n,.14,3
+32,Mireylli Alejandra Reynoso Juárez,F,3,20,c,c,s,.1065,3
+32,Mireylli Alejandra Reynoso Juárez,F,4,20,d1,DD,h,.075,3
+32,Mireylli Alejandra Reynoso Juárez,F,5,20,d1,DD,n,.009,3
+32,Mireylli Alejandra Reynoso Juárez,F,6,20,d1,DD,s,.046,3
+32,Mireylli Alejandra Reynoso Juárez,F,7,20,d2,DD,h,.041,3
+32,Mireylli Alejandra Reynoso Juárez,F,8,20,d2,DD,n,.028,3
+32,Mireylli Alejandra Reynoso Juárez,F,9,20,d2,DD,s,.048,3
+32,Mireylli Alejandra Reynoso Juárez,F,10,20,t,t,h,.0295,3
+32,Mireylli Alejandra Reynoso Juárez,F,11,20,t,t,n,.1435,3
+32,Mireylli Alejandra Reynoso Juárez,F,12,20,t,t,s,.0835,3
+33,rafael Garza,M,1,19,c,c,h,.125,3
+33,rafael Garza,M,2,19,c,c,n,.0815,3
+33,rafael Garza,M,3,19,c,c,s,.0895,3
+33,rafael Garza,M,4,19,d1,DD,h,.0205,3
+33,rafael Garza,M,5,19,d1,DD,n,.1315,3
+33,rafael Garza,M,6,19,d1,DD,s,.0915,3
+33,rafael Garza,M,7,19,d2,DD,h,.058,3
+33,rafael Garza,M,8,19,d2,DD,n,.0395,3
+33,rafael Garza,M,9,19,d2,DD,s,.0465,3
+33,rafael Garza,M,10,19,t,t,h,.1075,3
+33,rafael Garza,M,11,19,t,t,n,.088,3
+33,rafael Garza,M,12,19,t,t,s,.1275,3
